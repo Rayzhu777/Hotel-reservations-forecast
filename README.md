@@ -1,1 +1,1 @@
-The decision tree and random forest results are coming from other two members' results.
+In the discussion section, the decision tree and random forest results come from the other two members' results.
